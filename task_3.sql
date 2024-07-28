@@ -1,4 +1,2 @@
--- task_3.sql
-
--- List all tables in the alx_book_store database
+-- This script lists all tables in the specified database
 SHOW TABLES;
